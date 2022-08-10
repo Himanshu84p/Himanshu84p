@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HimanshuPrajapati25
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me himanshuprajapati7433@gmail.com
 
