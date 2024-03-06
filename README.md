@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @HimanshuPrajapati25
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail me himanshuprajapati7433@gmail.com
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently working at SilverTouch Technologies Ltd. Ahemdabad
 
 <!---
 HimanshuPrajapati25/HimanshuPrajapati25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
