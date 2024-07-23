@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HimanshuPrajapati25
-- 👀 I’m a Software Engineer
+- 👋 Hi, I’m Himanshu Prajapati
+- 👀 Software Engineer
 - 🌱 I’m currently working at SilverTouch Technologies Ltd. Ahemdabad
 
 <!---
