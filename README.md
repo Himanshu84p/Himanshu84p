@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Himanshu Prajapati and I'm a Software Engineer, from Ahmedabad</h2>
 
 ###
@@ -47,3 +48,10 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+<!---
+HimanshuPrajapati25/HimanshuPrajapati25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
