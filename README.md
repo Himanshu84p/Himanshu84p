@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Prajapati
 - 👀 Software Developer | Javascript | Typescript | NodeJS | ReactJS | NextJS | .NET | .NET CORE | SQL Server | MongoDB
-- 🌱 I’m currently working at SilverTouch Technologies Ltd. Ahemdabad
+- 🌱 I’m currently working at Synchronized Codelab Ltd. Ahemdabad
 
 <!---
 HimanshuPrajapati25/HimanshuPrajapati25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
